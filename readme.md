@@ -1,3 +1,3 @@
-# _Steve_Jobs_ tribute page
+# _Steve_ _Jobs_ tribute page
 
-Remembering Steve Jobs life's.
+Remembering Steve Jobs life's (1955-2011).
