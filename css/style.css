@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Oswald:wght@300&family=Roboto+Condensed:wght@300&family=Square+Peg&display=swap");
+
+body {
+  background-color: #c7c2c2;
+  font-family: "Oswald", sans-serif;
+}
+#title {
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 3.5em;
+}
+h2 {
+  text-align: center;
+  font-size: 1.5em;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+#image {
+  width: 50em;
+  display: block;
+  margin: auto;
+  margin-top: 3em;
+  border-radius: 0.3em;
+}
+#img-caption {
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: bold;
+  margin: 1em;
+}
+ul {
+  max-width: 40%;
+  margin: auto;
+}
+li {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 0.6em;
+}
+#quotes {
+  margin: 3em auto;
+  padding: 1em;
+  width: 90%;
+  background-color: #000;
+  color: #c7c2c2;
+}
+q {
+  display: block;
+  font-family: "Square Peg", cursive;
+  font-size: 1.8em;
+  font-weight: bold;
+  text-align: center;
+  margin: 0.6em;
+}
+#signature-img {
+  width: 20em;
+  display: block;
+  margin: auto;
+}
+h3 {
+  text-align: center;
+  font-size: 1.5em;
+}
+a {
+  color: #201f1f;
+}
+a:hover {
+  color: #ff0000;
+}
